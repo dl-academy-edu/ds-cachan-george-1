@@ -1,0 +1,44 @@
+* {
+    background: #ffffff;
+}
+
+.brands-logotips {
+    display: flex;
+    align-items: center;
+}
+
+.brands-logo {
+    margin-right: 127px;
+}
+
+.bahher-head {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 110%;
+}
+
+.banner-text {
+    font-family: Crimson Text;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.banner-foot {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.category-list {
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    align-items: center;
+    text-transform: uppercase;
+}
