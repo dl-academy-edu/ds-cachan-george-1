@@ -1,0 +1,124 @@
+* {
+    background: #ffffff;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.brands-logotips {
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+
+.brands-logo {
+    margin-right: 127px;
+}
+
+.banner-head {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 110%;
+    font-style: normal;
+    font-size: 40px;
+    line-height: 110%;
+    color: #1E0606;
+}
+
+.banner-text {
+    font-family: Crimson Text;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.banner-foot {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.category-list {
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    align-items: center;
+    text-transform: uppercase;
+    max-width: 1180px;
+    max-height: 270px;
+}
+
+.category4 {
+    background-color:  rgb(8, 201, 8);
+    margin: 46px 18px 47px;
+    border: 46px 18px 47px;
+    padding: 46px 18px 47px;
+    Width :244px;
+    Height: 177px;
+    color: black;
+    margin: 0;
+        
+}
+
+.category-text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+}
+
+.head-text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+    text-transform: uppercase;
+    color: #1E0606;
+    width: 700px;
+}
+
+.delivery {
+    display: flex;
+    box-sizing: border-box;
+}
+
+.delivery-img {
+    margin: 90px 120px 90px 110px;
+}
+
+.delivery-head {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+    text-transform: uppercase;
+    color: #1E0606;
+}
+
+.delivery-menu {
+    font-family: Crimson Text;
+    font-style: italic;
+    font-size: 26px;
+    line-height: 32px;
+    color: #1E0606;
+
+}
+
+.contacts {
+    display: inline-flex;
+}
+
+.delivery-text {
+     width: 480px;    
+    margin: 0 210px 15px 0;
+
+}
