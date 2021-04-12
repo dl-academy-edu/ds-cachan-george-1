@@ -2,3 +2,8 @@
     display: inline-flex;
     margin: 0;
 }
+
+.block {
+    margin: 0 10px 0;
+    max-width: 380PX;
+}

@@ -1,0 +1,9 @@
+.category-list {
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    align-items: center;
+    text-transform: uppercase;
+    max-width: 1180px;
+    max-height: 270px;
+}
